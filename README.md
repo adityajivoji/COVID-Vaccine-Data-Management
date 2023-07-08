@@ -7,7 +7,7 @@ The structure for citizens contain the following fields:
 - Gender
 - Year of birth
 - Number of doses taken (0/1/2)
-- 
+
 The structure for the vaccination centre contain the following fields:
 - Centre ID
 - Centre address
